@@ -216,12 +216,3 @@ int main()
 	DeleteTail();
 	Traverse();
 }
-Output:
-List is: 8 7 6 5
-List is: 8 7 6 5 9 10
-List is: 8 11 7 6 5 9 10
-List is: 8 11 7 6 9 10
-Found
-Not found
-List is: 11 7 6 9 10
-List is: 11 7 6 9
